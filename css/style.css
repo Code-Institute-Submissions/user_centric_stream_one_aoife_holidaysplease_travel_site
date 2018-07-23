@@ -46,7 +46,33 @@
 
 #logo {
     font-family: 'Pattaya', sans-serif;
-    font-size: 22px;
+    font-size: 2rem;
     color: #ffffff;
 
+}
+
+/* Footer */
+
+footer {
+    padding: 20px;
+    background-color: #002d59;
+    color: #ffffff;
+}
+
+.email_link a{
+    color:#ffffff;
+}
+
+ul.social_media {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.social_media li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+ul.social_media li a {
+    color: #ffffff;
 }
