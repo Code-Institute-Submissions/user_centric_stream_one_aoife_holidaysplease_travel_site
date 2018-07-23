@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300|Pattaya');
 
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #002d59;
+    background-color: #f7fbfc;
+}
+
 
 /* Collapsing Navbar */
 
@@ -116,6 +123,35 @@
     padding: 3rem;
 }
 
+.booking {
+    background-color: #ffffff;
+    border-color: #002d59;
+    border: solid;
+    color: #002d59;
+    padding: 0.75em 1.0em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.booking:hover {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #002d59;
+}
+
+
+.enquire {
+    padding-bottom: 2.5rem;
+    padding-top: 1rem;
+}
+
+.divider_box {
+    background-color: #ffffff;
+}
+
+.layout {
+    padding: 0;
+}
 /*Navbar Style Non_Landing Pages*/
 
 .secondary {
