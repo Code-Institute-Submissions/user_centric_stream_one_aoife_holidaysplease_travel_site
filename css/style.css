@@ -165,6 +165,40 @@ a.booking:hover {
     text-align: left;
 }
 
+/*About Me Page*/
+.head-image {
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#story {
+    background-image: url("../images/balloon.jpg");
+}
+
+.speech-bubble {
+    background: #ffffff;
+    display: inline-block;
+    margin-bottom: 1em;
+    padding: 1em;
+    position: relative;
+    vertical-align: top;
+    min-width: 7em;
+    border-radius: .4em;
+}
+
+.speech-bubble:after {
+    border: 1em solid transparent;
+    border-top-color: #ffffff;
+    content: '';
+    margin-left: -1em;
+    position: absolute;
+    top: 100%;
+    left: 70%;
+    width: 0;
+    height: 0;
+}
+
 /* Footer */
 
 footer {
