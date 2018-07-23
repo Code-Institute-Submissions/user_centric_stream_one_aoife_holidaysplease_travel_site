@@ -51,6 +51,71 @@
 
 }
 
+/*Callout Landing Page*/
+.callout-container {
+    height: 100vh;
+    background: url("/images/landing_image.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+.jumbotron {
+    background-color: transparent;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-weight: 300;
+    font-size: 50px;
+    padding-top: 35vh;
+    height: 100vh;
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -webkit-transform: translate3d(0, 0, 0);
+}
+
+/*Landing*/
+
+.header {
+    font-weight: bold;
+    text-align: center;
+}
+
+.offer {
+    text-align: center;
+}
+
+
+.offer-link {
+    color: #002d59;
+}
+
+.offer-link:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.content-section {
+    padding: 3rem;
+}
+
 /*Navbar Style Non_Landing Pages*/
 
 .secondary {
