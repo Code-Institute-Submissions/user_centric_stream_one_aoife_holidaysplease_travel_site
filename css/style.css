@@ -159,6 +159,12 @@ a.booking:hover {
     position: relative;
 }
 
+/*Offers Page*/
+.offer-desc {
+    background-color: #ffffff;
+    text-align: left;
+}
+
 /* Footer */
 
 footer {
