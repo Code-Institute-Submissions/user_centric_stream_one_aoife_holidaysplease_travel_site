@@ -4,7 +4,7 @@ html,
 body {
     font-family: 'Roboto', sans-serif;
     color: #002d59;
-    background-color: #f7fbfc;
+    background-color: #e7f1fa;
 }
 
 
@@ -186,6 +186,7 @@ a.booking:hover {
     vertical-align: top;
     min-width: 7em;
     border-radius: .4em;
+    width: 100%;
 }
 
 .speech-bubble:after {
@@ -195,9 +196,14 @@ a.booking:hover {
     margin-left: -1em;
     position: absolute;
     top: 100%;
-    left: 70%;
+    left: 90%;
     width: 0;
     height: 0;
+}
+
+.customer_detail {
+    text-align: right;
+    font-style: italic;
 }
 
 /*Contact*/
