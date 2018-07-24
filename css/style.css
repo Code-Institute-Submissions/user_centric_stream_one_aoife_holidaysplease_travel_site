@@ -165,6 +165,7 @@ a.booking:hover {
     text-align: left;
 }
 
+
 /*About Me Page*/
 .head-image {
     height: 600px;
@@ -197,6 +198,13 @@ a.booking:hover {
     left: 70%;
     width: 0;
     height: 0;
+}
+
+/*Contact*/
+
+#contact {
+    background-image: url("../images/contact.jpg");
+
 }
 
 /* Footer */
