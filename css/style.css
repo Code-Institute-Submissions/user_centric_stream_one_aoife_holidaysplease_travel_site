@@ -207,6 +207,24 @@ a.booking:hover {
 
 }
 
+legend {
+    color:#002d59;
+}
+
+#map {
+    width: 95%;
+    height: 300px;
+}
+
+.side_contact {
+    background-color: #ffffff;
+    padding: 2.5rem;
+}
+
+.contact_details {
+    list-style-type: none;
+}
+
 /* Footer */
 
 footer {
@@ -216,6 +234,10 @@ footer {
 }
 
 .email_link a{
+    color:#ffffff;
+}
+
+.phone_link a{
     color:#ffffff;
 }
 
