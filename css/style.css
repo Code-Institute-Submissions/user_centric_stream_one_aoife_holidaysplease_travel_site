@@ -61,7 +61,7 @@ body {
 /*Callout Landing Page*/
 .callout-container {
     height: 100vh;
-    background: url("/images/landing_image.jpg") no-repeat center center fixed;
+    background: url("../images/landing_image.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
