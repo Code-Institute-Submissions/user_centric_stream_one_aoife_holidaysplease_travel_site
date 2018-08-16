@@ -82,14 +82,13 @@ body {
 }
 
 
-.jumbotron {
+.jumbotron-landing {
     background-color: transparent;
     color: #ffffff;
-    font-weight: bold;
+    font-weight: 300;
     text-align: center;
     padding-bottom: 0;
     margin-bottom: 0;
-    font-weight: 300;
     font-size: 50px;
     padding-top: 35vh;
     height: 100vh;
@@ -210,6 +209,8 @@ a.booking:hover {
     text-decoration: none;
     color: #ffffff;
     background-color: #002d59;
+    border-color: #002d59;
+    
 }
 
 
@@ -238,6 +239,52 @@ a.booking:hover {
     text-align: left;
 }
 
+.panel {
+    border-radius: 0;
+}
+
+.panel-heading {
+    padding: 0;
+}
+
+.book-now a {
+    background-color: #002d59;
+    color: #ffffff;
+    width: 100%;
+    border-radius: 0;
+}
+
+.book-now a:hover{
+    color: #ffffff;
+}
+
+#promotion {
+    background: url("../images/antarctica.jpg") no-repeat center center;
+    background-size: cover;
+    height: 600px;
+    border-radius: 0;
+}
+
+.promotion-container {
+    padding-top: 8em;
+}
+.promoted-offer {
+    background-color:#002d59; 
+    border-color: #002d59;
+    border-radius: 0;
+    color:#ffffff;
+    font-weight: bold;
+    
+}
+
+.promotion-button {
+    border-color: #002d59;
+    border-radius: 0;
+    background-color: #ffffff;
+    color:#002d59;
+    font-weight: bold;
+   
+}
 
 /*About Me Page*/
 .head-image {
