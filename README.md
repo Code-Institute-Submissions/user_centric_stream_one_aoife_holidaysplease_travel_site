@@ -1,8 +1,11 @@
 # Aoife@holidaysplease 
 
 
-## Project Overview
+## Multi Page Static Website 
 
+## Live Demo
+
+Follow this link to view deployed version of this website https://nikralave.github.io/Aoife-holidaysplease_travel_site/
 
 ### Website Purpose & Goals:
 
@@ -30,13 +33,19 @@ After the initial planning stage, analog pen and paper wireframes were completed
 
 
 ### Functionality
-This is a multipage website built using a Bootstrap framework for responsive layout. There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numberous other logical links through out the site. 
+This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numberous other logical links through out the site. 
 
 The main purpose of this site is to enable the user to easily contact the business owner after being attracted to her services. There are therefore many links to a detailed contact form on the site. This form is disabled for the purposes of the project brief specifies that javascript not be used. 
 
+### Future Development
+In the future I intend to develop this site further for my client before going live. The following features will be implemented:
+- The contact form will be connected to the client email and fully fully funcioning with sent message for the user.
+- The client has expressed some interest in perhaps developing a blog section to the site down the road.
+- Live social media links will be added to the footer.
+
 ### Technologies Used
 
-- HTML5 
+- HTML5
 - CSS3 - Along with using CSS for styling, it has also been used to create a text reveal animation on the homepage. It was decided to hide this feature when viewing on mobile as the screen just looked cluttered and hindered site viewing. 
 - [Bootstrap Version 3](https://getbootstrap.com/docs/3.3/ "Bootstrap 3 Homepage")  - used for responsive layout and collapsable navbar which uses Boostrap's own Jquery.
 
@@ -51,20 +60,30 @@ The site has been deployed to be hosted on Github pages. (please see the live li
 
 - Manual testing was carried out on this site
 - All code used has been tested to ensure that everything is working as it ought to
-- The site has been tested for viewing support across the following browsers:
+- [Cross Browser Testing](https://crossbrowsertesting.com/ "Cross Browser Testing Homepage")  was used to ensure that the site has been tested for viewing support across the following browsers:
   - Google Chrome
   - Opera
   - Microsoft Edge
+  - Internet Explorer 11
   - Mozilla Firefox
-  - Responsiveness has also been tested
+  - Safari
+- Responsiveness has also been tested across multiple devices through the use of Google Dev Tools and also using the following resources:
+  - [Responsinator](http://www.responsinator.com/ "Responsinator Homepage")
+  - [Google Resizer](https://material.io/tools/resizer/ "Google Resizer Homepage")
+  - [Mobile Test](http://mobiletest.me/ "Mobile test Homepage")
 
 ## Acknowledgements
 
-I would like to acknowledge the following source of code on which the home page css text reveal animation feature was based:
+#### Media
 
 - The photos used on this website were obtained from a combination of sources including client provision and stock photo sites such as [Pexels](https://www.pexels.com/ "Pexels") and [Unsplash](https://www.pexels.com/ "Unsplash").
 
-- [Nooray Yemon - Codepen](https://codepen.io/yemon/pen/dzgmxJ "Nooray Yemon Codepen")
+
+#### Codepen
+
+I would like to acknowledge the following source of code upon which the home page css text reveal animation feature was based:
+
+- [Nooray Yemon - Codepen](https://codepen.io/yemon/ "Nooray Yemon Codepen")
     - I adapted this piece of code to fit with look and feel of my site. The wording and font was changed along with its placement over a jumbotron to transport the user into the scene of the image. 
     - I also decided after testing its view on mobile to remove the feature from mobile screen size to avoid a cluttered and bad user experience.
 
