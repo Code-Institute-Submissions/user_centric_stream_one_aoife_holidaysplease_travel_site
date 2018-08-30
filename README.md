@@ -1,19 +1,18 @@
 # Aoife@holidaysplease 
 
 
-## Multi Page Static Website 
-
-## Live Demo
-
-Follow this link to view deployed version of this website https://nikralave.github.io/Aoife-holidaysplease_travel_site/
-
-### Website Purpose & Goals:
+## Multi Page Static Website For A Freelance Travel Agent  
 
 This website is designed as a business platform for a freelance travel agent. It will be used to communicate what she does and as a medium for people to reach out and contact her. 
 
 The website has four pages which allow users to view latest holiday offers and read about the business owner. The site also provides users with an enquiry form to kick off their holiday consulatation process or direct contact details should they wish to use email or phone instead. The home page is designed to transport the user to paradise and provide good information architecture and navigation system. 
 
-### UX:
+
+## Live Demo
+
+Follow this link to view deployed version of this website https://nikralave.github.io/Aoife-holidaysplease_travel_site/
+
+### UX
 
 #### 1. Initial Planning 
 
@@ -30,11 +29,11 @@ The following is a list of some user stories:
  - As a user who wants to research the type of person behind this business, I would like to see some information on their background which gives me this insight and comfort.
  - As a user looking to see what other people have thought of the service, I would like to see some testimonials to provide me with some insight into the type of things people like about the service provided.
 
-#### 2. Wireframes
+#### 3. Wireframes
 
 After the initial planning stage, analog pen and paper wireframes were completed. From here I developed these wireframes further using [Balsamiq](https://www.balsamiq.com "Balsamiq Homepage"). At this point I fine tuned down my features and layout. There were some cosmetic adjustments during the development process but on a whole the original mockups were followed quite closely. All wireframes have been included in a file labelled "Wireframe" for project review.
 
-#### 3. Overall Look and Feel
+#### 4. Overall Look and Feel
 
 As this is a travel site whose purpose it is to entice people to want to purchase a holiday, images and clear navigation were something I felt was very important. For that reason I carefully sourced images that both conveyed the message well and sat well in the context of the overall site look and feel. I chose blue as a base colour for the site using variations of this throughout as this conjures up feelings of relaxation and travel (for example blue skies and clear blue seas). 
 
@@ -42,15 +41,14 @@ All buttons have been styled consistently with a press/hover effect on each to m
 
 A script like typography for the logo was chosen to give the feel of a personal touch that the client seeks to protray. The typography for the rest of the site is clean and sans-serif to contribute to a relaxing experience.
 
-## Functionality and Technologies Used
-
-
-### Functionality & Features
-This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numberous other logical links through out the site. 
-
-The homepage presents the users with a CSS reveal when they open the page on desktop. This is placed on top of an image of a paradise setting to transport and entice the user to a faraway place. It was decided to hide this feature on mobile as using it would have made the homepage cluttered and difficult to view.
-
-The main purpose of this site is to enable the user to easily contact the business owner after being attracted to her services. There are therefore many links to a detailed contact form on the site. This form is disabled for the purposes of the project brief specifies that javascript not be used. 
+### Features
+-This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. 
+-There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numberous other logical links through out the site. 
+-The homepage presents the users with a CSS reveal when they open the page on desktop. This is placed on top of an image of a paradise setting to transport and entice the user to a faraway place. It was decided to hide this feature on mobile as using it would have made the homepage cluttered and difficult to view.
+- The About page features an insight into the business owners story and also some testimonials to provide users with comfort and reassurance.
+- The Offers page gives the user a taste of packages on offer with enticing images, a list of package details and of course links to contact the business owner easily
+-The main purpose of this site is to enable the user to easily contact the business owner after being attracted to her services. There are therefore many links to a detailed contact form on the site. This form is disabled for the purposes of the project brief specifies that JavaScript not be used. 
+- The Contact page contains a simple form along with alternative contact options and a google map to illustrate where the business owner is located.
 
 ### Future Development
 In the future I intend to develop this site further for my client before going live. The following features will be implemented:
@@ -65,6 +63,7 @@ In the future I intend to develop this site further for my client before going l
 - [Bootstrap Version 3](https://getbootstrap.com/docs/3.3/ "Bootstrap 3 Homepage")  - used for responsive layout and collapsable navbar which uses Boostrap's own Jquery.
 
 ## Testing & Deployment
+
 
 ### Testing
 
@@ -92,7 +91,7 @@ The site has been deployed to be hosted on Github pages. (please see the live li
 
 #### Media
 
-- The photos used on this website were obtained from a combination of sources including client provision and stock photo sites such as [Pexels](https://www.pexels.com/ "Pexels") and [Unsplash](https://www.pexels.com/ "Unsplash").
+- The photos used on this website were obtained from a combination of sources including client provision and stock photo sites such as [Pexels](https://unsplash.com/ "Pexels") and [Unsplash](https://www.pexels.com/ "Unsplash").
 
 
 #### Acknowledgements
