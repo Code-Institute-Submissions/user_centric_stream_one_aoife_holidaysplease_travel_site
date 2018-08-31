@@ -32,7 +32,7 @@ The following is a list of some user stories:
 
 #### 3. Wireframes
 
-After the initial planning stage, analog pen and paper wireframes were completed. From here I developed these wireframes further using [Balsamiq](https://www.balsamiq.com "Balsamiq Homepage"). At this point I fine tuned down my features and layout. There were some cosmetic adjustments during the development process but on a whole the original mockups were followed quite closely. All wireframes have been included in a file labelled "Wireframe" for project review.
+After the initial planning stage, analog pen and paper wireframes were completed. From here I developed these wireframes further using [Balsamiq](https://www.balsamiq.com "Balsamiq Homepage"). At this point I fine tuned down my features and layout. There were some cosmetic adjustments during the development process but on a whole the original mockups were followed quite closely. All wireframes have been included in a file labelled [wireframes](wireframes/) for project review.
 
 #### 4. Overall Look and Feel
 
