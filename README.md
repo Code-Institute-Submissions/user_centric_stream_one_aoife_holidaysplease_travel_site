@@ -10,9 +10,10 @@ The website has four pages which allow users to view latest holiday offers and r
 
 ## Live Demo
 
-Follow this link to view deployed version of this website https://nikralave.github.io/Aoife-holidaysplease_travel_site/
+Follow this link to view deployed version of this website https://nikralave.github.io/user_centric_stream_one_aoife_holidaysplease_travel_site/
 
-### UX
+
+## UX
 
 #### 1. Initial Planning 
 
@@ -41,7 +42,9 @@ All buttons have been styled consistently with a press/hover effect on each to m
 
 A script like typography for the logo was chosen to give the feel of a personal touch that the client seeks to protray. The typography for the rest of the site is clean and sans-serif to contribute to a relaxing experience.
 
-### Features
+
+## Features
+
 -This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. 
 -There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numberous other logical links through out the site. 
 -The homepage presents the users with a CSS reveal when they open the page on desktop. This is placed on top of an image of a paradise setting to transport and entice the user to a faraway place. It was decided to hide this feature on mobile as using it would have made the homepage cluttered and difficult to view.
@@ -51,12 +54,14 @@ A script like typography for the logo was chosen to give the feel of a personal 
 - The Contact page contains a simple form along with alternative contact options and a google map to illustrate where the business owner is located.
 
 ### Future Development
-In the future I intend to develop this site further for my client before going live. The following features will be implemented:
-- The contact form will be connected to the client email and fully fully funcioning with sent message for the user.
-- The client has expressed some interest in perhaps developing a blog section to the site down the road.
-- Live social media links will be added to the footer.
 
-### Technologies Used
+In the future I intend to develop this site further for my client before going live. The following features will be implemented:
+- The contact form will be connected to the client email and fully functioning with sent message for the user.
+- The client has expressed some interest in perhaps developing a blog section to the site down the road.
+- Client social media links will be added to the footer which are currently directed to Code Institute for demonstration purposes.
+
+
+## Technologies Used
 
 - HTML5
 - CSS3 - Along with using CSS for styling, it has also been used to create a text reveal animation on the homepage. It was decided to hide this feature when viewing on mobile as the screen just looked cluttered and hindered site viewing. 
@@ -68,7 +73,7 @@ In the future I intend to develop this site further for my client before going l
 ### Testing
 
 - Manual testing was carried out on this site.
-- All code used has been tested to ensure that everything is working as it ought to.
+- All links were tested to ensure working correctly & all external links are opening on a new tab.
 - All CSS code has passed the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/ "Jigsaw Validator Homepage")
 - [Cross Browser Testing](https://crossbrowsertesting.com/ "Cross Browser Testing Homepage")  was used to ensure that the site has been tested for viewing support across the following browsers:
   - Google Chrome
@@ -81,11 +86,27 @@ In the future I intend to develop this site further for my client before going l
   - [Responsinator](http://www.responsinator.com/ "Responsinator Homepage")
   - [Google Resizer](https://material.io/tools/resizer/ "Google Resizer Homepage")
   - [Mobile Test](http://mobiletest.me/ "Mobile test Homepage")
+- Along with the emulator tests above, the site has been tested on my own phone along with other physical devices to ensure all looks and works as it should. 
 
 
 ### Deployment
 
-The site has been deployed to be hosted on Github pages. (please see the live link above)
+The site has been deployed to be hosted on Github pages. (please see the live link above). Below are the deployment instructions:
+
+1. On GitHub, navigate to your the repository you wish to deploy from.
+2. Under your repository name, click Settings.
+3. Navigate to the GitHub Pages section.
+4. Use the Select source drop-down menu to select master branch
+5. Click Save.
+
+### Installation
+
+If you wish to clone this project, follow the below instructions. In developing this project I used Cloud9, the following instructions have been made with this in mind. If you are using a different editor you may need to look at its documentation for your terminal commands.
+
+1. If you wish to use the Cloud 9 code editor click here https://c9.io
+2. Proceed to the folder which you want to store the cloned project and in your terminal & type: `$ git clone https://github.com/nikralave/user_centric_stream_one_aoife_holidaysplease_travel_site.git`
+3. When done cut ties with my github: `$ git remote rm origin`
+ 
 
 ## Credits
 
