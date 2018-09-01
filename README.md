@@ -36,7 +36,7 @@ After the initial planning stage, analog pen and paper wireframes were completed
 
 #### 4. Overall Look and Feel
 
-As this is a travel site whose purpose it is to entice people to want to purchase a holiday, images and clear navigation were something I felt was very important. For that reason I carefully sourced images that both conveyed the message well and sat well in the context of the overall site look and feel. I chose blue as a base colour for the site using variations of this throughout as this conjures up feelings of relaxation and travel (for example blue skies and clear blue seas). 
+As this is a travel site whose purpose it is to entice people to want to purchase a holiday, images and clear navigation were aspects that I felt were very important. For that reason I carefully sourced images that both conveyed the message well and sat well in the context of the overall site look and feel. I chose blue as a base colour for the site using variations of this throughout as this conjures up feelings of relaxation and travel (for example blue skies and clear blue seas). 
 
 All buttons have been styled consistently with a press/hover effect on each to make navigation simple and clear.
 
@@ -45,12 +45,12 @@ A script like typography for the logo was chosen to give the feel of a personal 
 
 ## Features
 
--This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. 
--There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numerous other logical links throughout the site. 
--The homepage presents the users with a CSS reveal when they open the page on desktop. This is placed on top of an image of a paradise setting to transport and entice the user to a faraway place. It was decided to hide this feature on mobile as using it would have made the homepage cluttered and difficult to view.
+- This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. 
+- There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numerous other logical links throughout the site. 
+- The homepage presents the users with a CSS reveal when they open the page on desktop. This is placed on top of an image of a paradise setting to transport and entice the user to a faraway place. It was decided to hide this feature on mobile as using it would have made the homepage cluttered and difficult to view.
 - The About page features an insight into the business owner's story and also some testimonials to provide users with comfort and reassurance.
 - The Offers page gives the user a taste of packages on offer with enticing images, a list of package details and of course links to contact the business owner easily
--The main purpose of this site is to enable the user to easily contact the business owner after being attracted to her services. There are therefore many links to a detailed contact form on the site. This form is disabled for the purposes of the project brief specifies that JavaScript not be used. 
+- The main purpose of this site is to enable the user to easily contact the business owner after being attracted to her services. There are therefore many links to a detailed contact form on the site. This form is disabled for the purposes of the project brief specifies that JavaScript not be used. 
 - The Contact page contains a simple form along with alternative contact options and a google map to illustrate where the business owner is located.
 
 ### Future Development
@@ -64,7 +64,7 @@ In the future I intend to develop this site further for my client before going l
 ## Technologies Used
 
 - HTML5
-- CSS3 - Along with using CSS for styling, it has also been used to create a text reveal animation on the homepage. It was decided to hide this feature when viewing on mobile as the screen just looked cluttered and hindered site viewing. 
+- CSS3 
 - [Bootstrap Version 3](https://getbootstrap.com/docs/3.3/ "Bootstrap 3 Homepage")  - used for responsive layout and collapsible navbar which uses Boostrap's own Jquery.
 
 ## Testing & Deployment
