@@ -5,7 +5,7 @@
 
 This website is designed as a business platform for a freelance travel agent. It will be used to communicate what she does and as a medium for people to reach out and contact her. 
 
-The website has four pages which allow users to view latest holiday offers and read about the business owner. The site also provides users with an enquiry form to kick off their holiday consulatation process or direct contact details should they wish to use email or phone instead. The home page is designed to transport the user to paradise and provide good information architecture and navigation system. 
+The website has four pages which allow users to view latest holiday offers and read about the business owner. The site also provides users with an enquiry form to kick off their holiday consultation process or direct contact details should they wish to use email or phone instead. The home page is designed to transport the user to paradise and provide good information architecture and navigation system. 
 
 
 ## Live Demo
@@ -17,7 +17,7 @@ Follow this link to view deployed version of this website https://nikralave.gith
 
 #### 1. Initial Planning 
 
-The planning commenced with pen and paper brainstorming and some competitor website analysis. Here website purpose and goals were laid out along with throughts on the type of feel and message the site ought to protray to the user. Competitor analysis was then carried out on other travel sites. As the client is a little unique in that she is a freelance agent working for a large travel agent [Holidaysplease](https://www.holidaysplease.co.uk/ "Holidaysplease Homepage"), this posed the challenge of trying to take what large agents might do but making the message of this site very personal. 
+The planning commenced with pen and paper brainstorming and some competitor website analysis. Here website purpose and goals were laid out along with thoughts on the type of feel and message the site ought to portray to the user. Competitor analysis was then carried out on other travel sites. As the client is a little unique in that she is a freelance agent working for a large travel agent [Holidaysplease](https://www.holidaysplease.co.uk/ "Holidaysplease Homepage"), this posed the challenge of trying to take what large agents might do but making the message of this site very personal. 
 
 #### 2. User Stories
 
@@ -40,15 +40,15 @@ As this is a travel site whose purpose it is to entice people to want to purchas
 
 All buttons have been styled consistently with a press/hover effect on each to make navigation simple and clear.
 
-A script like typography for the logo was chosen to give the feel of a personal touch that the client seeks to protray. The typography for the rest of the site is clean and sans-serif to contribute to a relaxing experience.
+A script like typography for the logo was chosen to give the feel of a personal touch that the client seeks to portray. The typography for the rest of the site is clean and sans-serif to contribute to a relaxing experience.
 
 
 ## Features
 
 -This is a multipage website built using a Bootstrap framework to deliver a solid responsive layout. Please note that no template was used to create this site. 
--There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numberous other logical links through out the site. 
+-There is a clean navigation bar which collapses to a hamburger menu when viewing on mobile along with numerous other logical links throughout the site. 
 -The homepage presents the users with a CSS reveal when they open the page on desktop. This is placed on top of an image of a paradise setting to transport and entice the user to a faraway place. It was decided to hide this feature on mobile as using it would have made the homepage cluttered and difficult to view.
-- The About page features an insight into the business owners story and also some testimonials to provide users with comfort and reassurance.
+- The About page features an insight into the business owner's story and also some testimonials to provide users with comfort and reassurance.
 - The Offers page gives the user a taste of packages on offer with enticing images, a list of package details and of course links to contact the business owner easily
 -The main purpose of this site is to enable the user to easily contact the business owner after being attracted to her services. There are therefore many links to a detailed contact form on the site. This form is disabled for the purposes of the project brief specifies that JavaScript not be used. 
 - The Contact page contains a simple form along with alternative contact options and a google map to illustrate where the business owner is located.
@@ -65,7 +65,7 @@ In the future I intend to develop this site further for my client before going l
 
 - HTML5
 - CSS3 - Along with using CSS for styling, it has also been used to create a text reveal animation on the homepage. It was decided to hide this feature when viewing on mobile as the screen just looked cluttered and hindered site viewing. 
-- [Bootstrap Version 3](https://getbootstrap.com/docs/3.3/ "Bootstrap 3 Homepage")  - used for responsive layout and collapsable navbar which uses Boostrap's own Jquery.
+- [Bootstrap Version 3](https://getbootstrap.com/docs/3.3/ "Bootstrap 3 Homepage")  - used for responsive layout and collapsible navbar which uses Boostrap's own Jquery.
 
 ## Testing & Deployment
 
@@ -93,7 +93,7 @@ In the future I intend to develop this site further for my client before going l
 
 The site has been deployed to be hosted on Github pages. (please see the live link above). Below are the deployment instructions:
 
-1. On GitHub, navigate to your the repository you wish to deploy from.
+1. On GitHub, navigate to the repository you wish to deploy from.
 2. Under your repository name, click Settings.
 3. Navigate to the GitHub Pages section.
 4. Use the Select source drop-down menu to select master branch
@@ -101,10 +101,10 @@ The site has been deployed to be hosted on Github pages. (please see the live li
 
 ### Installation
 
-If you wish to clone this project, follow the below instructions. In developing this project I used Cloud9, the following instructions have been made with this in mind. If you are using a different editor you may need to look at its documentation for your terminal commands.
+If you wish to clone this project, follow the below instructions. In developing this project, I used Cloud9, the following instructions have been made with this in mind. If you are using a different editor, you may need to look at its documentation for your terminal commands.
 
 1. If you wish to use the Cloud 9 code editor click here https://c9.io
-2. Proceed to the folder which you want to store the cloned project and in your terminal & type: `$ git clone https://github.com/nikralave/user_centric_stream_one_aoife_holidaysplease_travel_site.git`
+2. Proceed to the folder which you want to store the cloned project, and, in your terminal & type: `$ git clone https://github.com/nikralave/user_centric_stream_one_aoife_holidaysplease_travel_site.git`
 3. When done cut ties with my github: `$ git remote rm origin`
  
 
@@ -117,7 +117,7 @@ If you wish to clone this project, follow the below instructions. In developing 
 
 #### Acknowledgements
 
-I would like to acknowledge the following source of code upon which the home page css text reveal animation feature was based:
+I would like to acknowledge the following source of code upon which the home page CSS text reveal animation feature was based:
 
 - [Nooray Yemon - Codepen](https://codepen.io/yemon/ "Nooray Yemon Codepen")
     - I adapted this piece of code to fit with look and feel of my site. The wording and font was changed along with its placement over a jumbotron to transport the user into the scene of the image. 
